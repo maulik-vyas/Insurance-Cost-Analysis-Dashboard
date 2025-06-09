@@ -2,6 +2,7 @@
 Insurance Dashboard in Power BI
 
 📊 Project Overview
+
 Designed and developed an Insurance Cost Analysis Dashboard in Power BI to explore and analyze the impact of age, bmi, region, family size, and smoking status on the insurance premium. It helps Insurance companies make data-driven decisions.
 
 🛠️ Tools Used
