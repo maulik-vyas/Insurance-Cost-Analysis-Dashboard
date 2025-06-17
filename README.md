@@ -16,5 +16,6 @@ Designed and developed an Insurance Cost Analysis Dashboard in Power BI to explo
 * Males have slightly higher premium than females.
 
 📁 Project File
+
 Download the PBIX file directly from this repository.
 ![Insurance Cost Analysis Dashboard](https://github.com/maulik-vyas/Insurance-Cost-Analysis-Dashboard/blob/main/Insurance%20Cost%20Analysis%20Dashboard.png)
