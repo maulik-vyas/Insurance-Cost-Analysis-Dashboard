@@ -1,4 +1,4 @@
-# Insurance-Cost-Analysis-Dashboard
+# Insurance-Cost-Insights-Dashboard
 Insurance Dashboard in Power BI
 
 📊 Project Overview
@@ -18,4 +18,4 @@ Designed and developed an Insurance Cost Analysis Dashboard in Power BI to explo
 📁 Project File
 
 Download the PBIX file directly from this repository.
-![Insurance Cost Analysis Dashboard](https://github.com/maulik-vyas/Insurance-Cost-Analysis-Dashboard/blob/main/Insurance%20Cost%20Analysis%20Dashboard.png)
+![Insurance Cost Insights Dashboard](https://github.com/maulik-vyas/Insurance-Cost-Analysis-Dashboard/blob/main/Insurance%20Cost%20Insights%20Dashboard.png)
